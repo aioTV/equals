@@ -1,6 +1,6 @@
 from __future__ import absolute_import
 
-__version__ = '0.0.24'
+__version__ = '0.0.24-aiotv'
 
 import numbers  # noqa
 import collections  # noqa
